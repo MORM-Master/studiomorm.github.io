@@ -1,6 +1,6 @@
 ---
 layout: category
-title: NJH
+title: JGH
 #category: Programming#
 menu: false
 order: 2
