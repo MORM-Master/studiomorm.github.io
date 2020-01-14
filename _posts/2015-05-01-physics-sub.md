@@ -14,7 +14,6 @@ comments: true
 ---
 
 <center><b>고등학교 무리 자유탐구</b> "물리엔진"</center>
-
 ### 프로젝트 제목
 고등학교 물리 자유탐구
 
@@ -43,7 +42,7 @@ comments: true
 ### 이 프로젝트를 통해 배운점
 * 물리엔진을 구현해보고 싶어서 시작한 일
 
-  처음 공식을 사용할 땐 잘 안 되었다.(2D 공간에서 부피개념인 부력을 구현한다던지 단위를 어떻게 풀어낸다던지 단순히 물리적 이해도가 떨어져서 등등) 왜 안 되나 고민을 하면 이것저것 시도해보고 공부 해본 것이 물리이해도와 코딩이해도를 동시에 높여줌 개꿀
+  처음 공식을 사용할 땐 잘 안 되었다.(2D 공간에서 부피개념인 부력을 구현한다던지 단위를 어떻게 풀어낸다던지 단순히 물리적 이해도가 떨어져서 등등) 왜 안 되나 고민을 하면 이것저것 시도해보고 공부 해본 것이 물리이해도와 코딩이해도를 동시에 높여줌 
 
 ---
 
@@ -52,14 +51,25 @@ comments: true
 
 ### PreView
 
-부력  ![그림입니다.  원본 그림의 이름: 캡처_2015_12_07_07_33_20_150.png  원본 그림의 크기: 가로 1212pixel, 세로 626pixel](file:///C:\Users\재흠\AppData\Local\Temp\Hnc\BinData\EMB0000641c74b2.png)  
+부력
+
+![image](https://user-images.githubusercontent.com/18138559/72359237-4643e000-3731-11ea-9478-cac99bb1014b.png)
+
+
 
 중력
 
-![그림입니다.](file:///C:\Users\재흠\AppData\Local\Temp\Hnc\BinData\EMB0000641c74b7.bmp)  
+![image](https://user-images.githubusercontent.com/18138559/72359263-50fe7500-3731-11ea-8b6c-4b200dc700bb.png)
 
-전자기력![그림입니다.  원본 그림의 이름: 제목 없음-4.png  원본 그림의 크기: 가로 1318pixel, 세로 638pixel](file:///C:\Users\재흠\AppData\Local\Temp\Hnc\BinData\EMB0000641c74ba.png)  
 
-포물선 시뮬레이터![그림입니다.  원본 그림의 이름: 포물선1.PNG  원본 그림의 크기: 가로 1202pixel, 세로 632pixel](file:///C:\Users\재흠\AppData\Local\Temp\Hnc\BinData\EMB0000641c74bf.PNG)  
 
-![그림입니다.  원본 그림의 이름: 포물선2.PNG  원본 그림의 크기: 가로 1202pixel, 세로 632pixel](file:///C:\Users\재흠\AppData\Local\Temp\Hnc\BinData\EMB0000641c74c2.PNG)  
+전자기력
+
+![image](https://user-images.githubusercontent.com/18138559/72359332-712e3400-3731-11ea-8559-40601876e83d.png)
+
+
+
+포물선 시뮬레이터
+
+![image](https://user-images.githubusercontent.com/18138559/72359353-7a1f0580-3731-11ea-9e85-92468139db7c.png)
+![image](https://user-images.githubusercontent.com/18138559/72359363-7e4b2300-3731-11ea-9c31-40bc4b437f38.png)
