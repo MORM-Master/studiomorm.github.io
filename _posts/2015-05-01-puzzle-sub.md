@@ -14,7 +14,7 @@ comments: true
 ---
 
 <center><b>용문고등학교 드림프로젝트
-</b> "퍼즐 게임 Elise"</center>
+</b> "퍼즐 게임 Alice"</center>
 
 ### 프로젝트 제목
 용문고등학교 드림프로젝트
@@ -68,7 +68,7 @@ comments: true
 ---
 
 ### 소스 저장소
-* https://github.com/fvfvfv80/Alice.git
+* <a href ="https://github.com/fvfvfv80/Alice.git"> Alice </a>
 
 ### PreView
 

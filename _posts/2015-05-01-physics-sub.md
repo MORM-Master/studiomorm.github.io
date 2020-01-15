@@ -47,7 +47,7 @@ comments: true
 ---
 
 ### 소스 저장소
-* https://github.com/fvfvfv80/parabola-simulation.git
+* <a href="https://github.com/fvfvfv80/parabola-simulation.git">Simulation</a>
 
 ### PreView
 
