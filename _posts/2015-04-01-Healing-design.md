@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "미시령 힐링가도"
-date:   2015-05-01
+date:   2019-04-19
 excerpt: "홍보영상 제작"
 design: true
 tag:
@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-<center><b>미시령 힐링가도  </b>홍보영상 제작</center> 
+<center><b>미시령 힐링가도  </b>홍보영상 제작</center>
 ### 프로젝트 제목
 
 미시령 힐링가도

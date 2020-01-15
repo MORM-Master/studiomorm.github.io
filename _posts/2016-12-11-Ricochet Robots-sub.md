@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(개인) Ricochet Robots"
-date:   2017-04-04
+date:   2019-05-20
 excerpt: "총알탄로봇"
 subprogrammer: true
 tag:
@@ -48,7 +48,7 @@ comments: true
 ---
 
 ### 소스 저장소
-*
+* https://github.com/fvfvfv80/Ricochet-Robots.git
 
 ### PreView
 

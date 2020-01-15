@@ -24,10 +24,14 @@ layout: compress
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
+                    {% if page.mainprogrammer %}
+                    <a class="btn zoombtn" href="{{site.url}}/mainprogrammer/">
+                    {% elsif page.subprogrammer %}
+                    <a class="btn zoombtn" href="{{site.url}}/subprogrammer/">
+                    {% elsif page.design %}
+                    <a class="btn zoombtn" href="{{site.url}}/design/">
+                    {% elsif page.sound %}
+                    <a class="btn zoombtn" href="{{site.url}}/sound/">
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>

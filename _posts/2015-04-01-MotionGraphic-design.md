@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Motion Graphic"
-date:   2015-05-01
+date:   2019-03-01
 excerpt: "홍보영상 제작"
 design: true
 tag:
@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-<center><b>Motion Graphic  </b>기술보증기금 공모전</center> 
+<center><b>Motion Graphic  </b>기술보증기금 공모전</center>
 ### 프로젝트 제목
 
 Motion Graphic
@@ -28,13 +28,12 @@ Motion Graphic
 
 ### 작업 툴
 
-Adobe Illustrator 
+Adobe Illustrator
 
-After Effects & Audition 
+After Effects & Audition
 
 ### 영상
 
 <video oncontextmenu="return true;" id="myVideo" width ="640" controls autoplay>
 <source src = "../assets/video/10.mp4" type="video/mp4">
 </video>
-

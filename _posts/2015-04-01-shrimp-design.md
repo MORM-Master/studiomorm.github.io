@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "소래 새우"
-date:   2015-05-01
+date:   2019-04-28
 excerpt: "BI Design"
 design: true
 tag:
@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-<center><b>소래 새우 </b>BI Design</center> 
+<center><b>소래 새우 </b>BI Design</center>
 ### 프로젝트 제목
 
 소래 새우

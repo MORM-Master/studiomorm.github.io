@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "STP 전략"
-date:   2015-05-01
+date:   2019-04-27
 excerpt: "STP 전략 with PPT"
 design: true
 tag:
@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-<center><b>STP 전략 </b>STP 전략 with PPT</center> 
+<center><b>STP 전략 </b>STP 전략 with PPT</center>
 ### 프로젝트 제목
 
 STP 전략

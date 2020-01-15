@@ -1,4 +1,13 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Designer
+  url: /design/
+
+- title: Sound Dir.
+  url: /sound/
+
+- title: MainProgrammer
+  url: /mainprogrammer/
+  
+- title: SubProgrammer
+  url: /subprogrammer/

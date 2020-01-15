@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(팀) 협상의 기술"
-date:   2017-12-16
+date:   2019-05-19
 excerpt: "교육게이미피케이션 실무자역량 강화 캠프"
 subprogrammer: true
 tag:
@@ -22,7 +22,7 @@ comments: true
 
 ### 팀 규모 및 역할
 
-3인 개발: 
+3인 개발:
 
 정규훈 : 기획 및 제작
 
