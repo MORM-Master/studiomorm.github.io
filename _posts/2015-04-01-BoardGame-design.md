@@ -14,7 +14,6 @@ comments: true
 ---
 
 <center><b>Cosmic Runner  </b>Character Design</center> 
-
 ### 프로젝트 제목
 
 Cosmic Runner
@@ -32,3 +31,7 @@ Cosmic Runner
 Adobe Photoshop
 
 Power point
+
+### 다운로드 링크
+
+[CosmicRunner.pdf](https://github.com/Meerkat-GMD/Meerkat-GMD.github.io/files/4064263/8.pdf)

@@ -14,7 +14,6 @@ comments: true
 ---
 
 <center><b>The Weeknd - Beauty Behind The Madness  </b>가사집</center> 
-
 ### 프로젝트 제목
 
 The Weeknd - Beauty Behind The Madness
@@ -30,3 +29,7 @@ The Weeknd - Beauty Behind The Madness
 ### 작업 툴
 
 Adobe Photoshop
+
+### 다운로드 링크
+
+[The Weeknd - Beauty Behind The Madness.pdf](https://github.com/Meerkat-GMD/Meerkat-GMD.github.io/files/4064258/7.pdf)

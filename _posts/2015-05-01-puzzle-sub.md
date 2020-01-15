@@ -72,6 +72,14 @@ comments: true
 
 ### PreView
 
+<video oncontextmenu="return true;" id="myVideo" width ="640" controls autoplay>
+<source src = "../assets/video/Elise.mp4" type="video/mp4">
+</video>
+
+<video oncontextmenu="return true;" id="myVideo" width ="640" controls autoplay>
+<source src = "../assets/video/Elise2.mp4" type="video/mp4">
+</video>
+
 ![image](https://user-images.githubusercontent.com/18138559/72357207-ec8de680-372d-11ea-82e0-1390f623ffd4.png)
 ![image](https://user-images.githubusercontent.com/18138559/72357210-eef04080-372d-11ea-8484-df3167ccb13a.png)
 ![image](https://user-images.githubusercontent.com/18138559/72357217-f0ba0400-372d-11ea-87d2-0efb5e39db3f.png)

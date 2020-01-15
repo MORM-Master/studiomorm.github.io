@@ -14,7 +14,6 @@ comments: true
 ---
 
 <center><b>리플렛 리디자인 </b>국가위원회 강원인권사무소 리플렛 리디자인</center> 
-
 ### 프로젝트 제목
 
 리플렛 리디자인
@@ -30,3 +29,7 @@ comments: true
 ### 작업 툴
 
 Adobe Illustrator
+
+### 작업 결과
+
+![3](https://user-images.githubusercontent.com/18138559/72423841-50fd8400-37c8-11ea-8ae0-508cf5d3a21b.png)

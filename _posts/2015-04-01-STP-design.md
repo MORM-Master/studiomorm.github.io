@@ -14,7 +14,6 @@ comments: true
 ---
 
 <center><b>STP 전략 </b>STP 전략 with PPT</center> 
-
 ### 프로젝트 제목
 
 STP 전략
@@ -30,3 +29,7 @@ STP 전략에 대한 설명과 관련된 회사의 예시를 담아 제작했습
 ### 작업 툴
 
 Power Point
+
+### 다운로드 링크
+
+[STP 전략.pptx](https://github.com/Meerkat-GMD/Meerkat-GMD.github.io/files/4064307/STP.ppt.pptx)

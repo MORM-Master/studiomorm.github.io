@@ -51,6 +51,14 @@ comments: true
 
 ### PreView
 
+<video oncontextmenu="return true;" id="myVideo" width ="640" controls autoplay>
+<source src = "../assets/video/Physics.mp4" type="video/mp4">
+</video>
+
+<video oncontextmenu="return true;" id="myVideo" width ="640" controls autoplay>
+<source src = "../assets/video/Physics2.mp4" type="video/mp4">
+</video>
+
 부력
 
 ![image](https://user-images.githubusercontent.com/18138559/72359237-4643e000-3731-11ea-9478-cac99bb1014b.png)

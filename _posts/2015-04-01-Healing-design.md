@@ -14,7 +14,6 @@ comments: true
 ---
 
 <center><b>미시령 힐링가도  </b>홍보영상 제작</center> 
-
 ### 프로젝트 제목
 
 미시령 힐링가도
@@ -36,3 +35,9 @@ Adobe Premier
 After Effects
 
 Audition
+
+### 영상
+
+<video oncontextmenu="return true;" id="myVideo" width ="640" controls autoplay>
+<source src = "../assets/video/9.mp4" type="video/mp4">
+</video>

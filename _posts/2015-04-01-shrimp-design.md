@@ -14,7 +14,6 @@ comments: true
 ---
 
 <center><b>소래 새우 </b>BI Design</center> 
-
 ### 프로젝트 제목
 
 소래 새우
@@ -32,3 +31,7 @@ comments: true
 Adobe Photoshop
 
 Adobe Illustrator
+
+### 다운로드 링크
+
+[소래 새우.pdf](https://github.com/Meerkat-GMD/Meerkat-GMD.github.io/files/4064196/4.pdf)
