@@ -14,7 +14,6 @@ comments: true
 ---
 
 <center><b>For Supo</b> "수학 포기자들을 위한 수학게임"</center>
-
 ### 프로젝트 제목
 For Supo
 
