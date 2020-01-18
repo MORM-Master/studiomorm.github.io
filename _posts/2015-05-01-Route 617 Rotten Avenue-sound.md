@@ -14,9 +14,8 @@ comments: true
 ---
 
 <center><b>Route 617 Rotten Avenue</b> "Route 617 Rotten Avenue"</center>
-
 ### 음악 제목
-Route 617 Rotten Avenue
+Route 617 Rotten Avenue (미완성)
 
 ### 음악 설명
 꿈 속 어느 도시의 광경을 그린 곡이다. 지속적으로 나오는 모티브(snow fall)로 미니멀리즘의 느낌도 나며, 금속을 손수건으로 닦아 의도적으로 소리를 내는 등의 효과를 사용하였다. 리얼음악을 기반으로 전자음향을 적용하려는 시도를 해보았다.

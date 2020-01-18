@@ -16,9 +16,8 @@ comments: true
 ![Paranoia_cover](https://user-images.githubusercontent.com/18138559/72361091-409bc980-3734-11ea-9383-cb6ed6bace04.jpg)
 
 <center><b>Paranoia</b> "편집증"</center>
-
 ### 음악 제목
-Paranoia
+Paranoia (미완성)
 
 ### 음악 설명
 그리스어 기원 “편집증”을 의미. 우리가 살아가는 현대사회의 부정적 이면에서 편집증 환자를 꽤 자주 발견할 수 있는데, 제 3자 시선에서 관찰한 그를 1인칭 시점에서 전개하고자 하였다. 각각의 에피소드는 편집증이 점점 심화되는 단계를 그린다.
